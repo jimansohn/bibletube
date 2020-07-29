@@ -1,0 +1,10 @@
+{
+  "name": "bibletube",
+  "version": "1.0.0",
+  "description": "Youtube clone with Vanilla  and NodeJS",
+  "main": "index.js",
+  "author": "Ji Man Sohn",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
